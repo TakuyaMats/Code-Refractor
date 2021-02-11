@@ -1,6 +1,11 @@
 # Code-Refractor
 
 CHANGES I MADE:
+
+* I had an issue with my terminal where the the command "code ." would not open up VSCode after I made a new repository from github. So doing a bit of research, it gave me a solution to install the command code through VSCode so when I punch it in through the terminal, it would open up. Here is the solution that helped me solve this issue: https://stackoverflow.com/questions/29955500/code-not-working-in-command-line-for-visual-studio-code-on-osx-mac
+
+* Another issue I came across was my style.css file was not syncing with my html file. It was a simple fix of going back a folder with ../ and since its case sensitive, I capitalized the A for Assets then followed up with /style.css. Also I added the type="text/css".
+
 - Changed the content of the title to be more descriptive
 
 - removed the closing /> from the meta tag
