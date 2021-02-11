@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Changed .header to header and applied it to all header tags */
+/* Removed the period for the header tags since it isn't a class anymore */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -16,15 +16,18 @@ header {
     color: #ffffff;
 }
 
+/* Removed the period for the header tags since it isn't a class anymore */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Removed the period for the header tags since it isn't a class anymore */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Removed the period for the header tags since it isn't a class anymore */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,10 +36,12 @@ header nav {
     font-size: 20px;
 }
 
+/* Removed the period for the header tags since it isn't a class anymore */
 header nav ul {
     list-style-type: none;
 }
 
+/* Removed the period for the header tags since it isn't a class anymore */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -135,6 +140,7 @@ p {
     font-size: 36px;
 }
 
+/* Removed the period for the footer tags since it isn't a class anymore */
 footer {
     padding: 30px;
     clear: both;
@@ -142,6 +148,7 @@ footer {
     text-align: center;
 }
 
+/* Removed the period for the footer tags since it isn't a class anymore */
 footer h2 {
     font-size: 20px;
 }
