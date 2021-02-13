@@ -38,6 +38,7 @@ I have improved the pre-existing code to meet the accessibility requirements of 
 - Steve Marsh: [https://github.com/Imaparadox]
 - Patrick Walker: [https://github.com/pat31477]
 - Ben Durham: [https://github.com/bdurham227]
+- Steven Paul: [https://github.com/etown285]
 
 ## LINKS:
 - Deployed Application URL: [https://takuyamats.github.io/Code-Refractor/]
