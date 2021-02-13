@@ -40,7 +40,7 @@ I have improved the pre-existing code to meet the accessibility requirements of 
 - Ben Durham: [https://github.com/bdurham227]
 
 ## LINKS:
-- Deployed Application URL: [https://takuyamats.github.io/Code-Refractor/]
+- Deployed Application URL: [git@github.com:TakuyaMats/Code-Refractor.git]
 - GitHub Repository URL: [git@github.com:TakuyaMats/Code-Refractor.git]
 
 ## LICENSE:
