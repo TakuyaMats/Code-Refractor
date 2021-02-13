@@ -1,4 +1,4 @@
-# Code-Refractor
+# Code-Refactor
 
 ## OVERVIEW:
 I have improved the pre-existing code to meet the accessibility requirements of a standard website. It ensures that people with disabilities can access the website without any problem and is also good for business! I also improved the codebase for long-term sustainability and easier for anyone that will be reviewing my code.
@@ -35,13 +35,13 @@ I have improved the pre-existing code to meet the accessibility requirements of 
 ![Refactored website](Images/screenshot.png)
 
 ## CREDITS:
-Steve Marsh: [https://github.com/Imaparadox]
-Patrick Walker: [https://github.com/pat31477]
-Ben Durham: [https://github.com/bdurham227]
+- Steve Marsh: [https://github.com/Imaparadox]
+- Patrick Walker: [https://github.com/pat31477]
+- Ben Durham: [https://github.com/bdurham227]
 
 ## LINKS:
-Deployed Application URL:
-GitHub Repository URL: [git@github.com:TakuyaMats/Code-Refractor.git]
+- Deployed Application URL: [TakuyaMats.github.io/Code-Refactor]
+- GitHub Repository URL: [git@github.com:TakuyaMats/Code-Refactor.git]
 
 ## LICENSE:
 MIT License
